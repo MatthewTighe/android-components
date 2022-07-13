@@ -56,6 +56,10 @@ projects:
     path: components/concept/sync
     description: 'An abstract definition of a browser data synchronization layer.'
     publish: true
+  feature-wallpapers:
+    path: components/feature/wallpapers
+    description: 'Component adding ability to download and manage wallpapers.'
+    publish: true
   feature-autofill:
     path: components/feature/autofill
     description: 'Component adding support for Android`s Autofill framework.'
